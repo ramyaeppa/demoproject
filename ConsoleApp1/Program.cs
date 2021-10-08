@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("welcome");
-            console.write("Azure.net");
+            Console.Write("Azure.net");
         }
     }
 }
